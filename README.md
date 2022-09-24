@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dan-Dev666
 - 👀 I’m interested in Full Stack Web Developement
 - 🌱 I’m currently learning Edx Harvard's CS50x Introduction to Computer Science
-- 💞️ I’m completely new to programming/coding - startfrom the bottom!
+- 💞️ I’m completely new to programming/coding - starting from the bottom!
 
 
 <!---
